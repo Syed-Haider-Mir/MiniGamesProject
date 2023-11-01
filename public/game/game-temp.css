@@ -203,7 +203,7 @@ nav ul li a:hover{
     background-position: center;
 }
 .hangman {
-    box-shadow: 0 0 15px black; /* Yellow shadow */
+    box-shadow: 0 0 15px rgb(0, 0, 0); /* Yellow shadow */
     /* border: 5px solid purple;  */
     border-radius: 15%;
     height: 100%; /* Take the height of the main container */
