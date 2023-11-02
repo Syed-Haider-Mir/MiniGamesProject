@@ -1,4 +1,1 @@
-# MiniGamesProject
-CIC: MiniGamesProject
-
-This is the readme file
+This is where we will put our HTML, CSS and JS files
